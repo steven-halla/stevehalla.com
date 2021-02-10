@@ -1,0 +1,86 @@
+body {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    background-color: #fff;
+}
+.content {
+    width: 800px;
+    background-color: #fff;
+    box-shadow: 4px 0 4px -4px rgba(25, 25, 26, 0.5), -4px 0 4px -4px rgba(25, 25, 26, 0.5);
+    padding: 15px;
+}
+
+a,
+a:hover,
+a:visited {
+    text-decoration: none;
+}
+
+.top-header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.top-header .left-column {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+}
+
+.top-header .right-column {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+}
+
+.top-header .left-column .full-name {
+    font-size: 30px;
+    color: black;
+}
+
+.top-header .left-column .job-title {
+    color: black;
+}
+
+.top-header .left-column .address {
+    color: black;
+}
+
+.top-header .right-column .phone-number,
+.top-header .right-column .email,
+.top-header .right-column .linkedin,
+.top-header .right-column .github {
+    text-align: right;
+}
+
+
+.place-and-date-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-content: 
+}
+
+
+.place-and-date-row .place {
+        
+}
+
+.place-and-date-row .date {
+    margin-right: 4%;
+}
+
+.blue-tag {
+    display: inline-flex; 
+    background-color: aqua; 
+    border-radius: 10px; 
+    padding: 10px;
+}
+
+.red-tag {
+    display: inline-flex; 
+    border-radius: 10px; 
+    padding: 10px;
+}
