@@ -28,6 +28,8 @@ a:visited {
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .top-header .left-column {
@@ -76,6 +78,8 @@ a:visited {
 
 .experience {
     font-size: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .experience .name {

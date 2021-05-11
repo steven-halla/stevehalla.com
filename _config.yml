@@ -27,7 +27,7 @@ permalink: /blog/:year/:month/:day/:title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  steven-halla
-linkedin_username: kenny-cason
+linkedin_username: steven-halla-2770ab210
 
 # Build settings
 theme: minima
