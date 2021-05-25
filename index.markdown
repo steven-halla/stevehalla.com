@@ -6,4 +6,3 @@ layout: home
 
 ---
 
-this is the homepage
