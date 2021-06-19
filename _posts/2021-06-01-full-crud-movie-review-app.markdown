@@ -5,7 +5,7 @@ date: 2021-05-31 20:35:46 -0800
 categories: nodejs express mysql react typescript
 ---
 
-The site: [https://stevenhalla.com/movies](https://stevenhalla.com/movies/index.html)
+The site: [https://movies.stevenhalla.com](https://movies.stevenhalla.com)
 
 I created a movie review app that started out in JavaScript but was then later converted into TypeScript.
 This is a full CRUD app where users can create, read, update, and delete movie reviews as well as manage their own profiles.
