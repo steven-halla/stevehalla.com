@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+thumbnail: "https://stevenhalla.com/assets/images/jekyllmainpage.png"
 ---
 One of the reasons that you would want to build your blog site in Jekyll is because you don't need to have a DB. It also means you dont have to do tedious css work. It all works under the box and
 it's a huge step up from those pay to play blog sites you see all over the place.
