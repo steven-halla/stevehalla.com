@@ -18,6 +18,8 @@ alt="2">
 <img  src="/assets/images/tomrottenfilepath/tomrotten-pathfile-3.png"
 alt="3">
 
+Quick and Easy movie reviews in 150 characters or less!
+
 I created a movie review app that started out in JavaScript but was then later converted into TypeScript.
 This is a full CRUD app where users can create, read, update, and delete movie reviews as well as manage their own profiles.
 Users will be able to create accounts and leave movie reviews. Users can also check out other user movie reviews.
