@@ -7,6 +7,17 @@ categories: nodejs express mysql react typescript
 
 The site: [https://movies.stevenhalla.com](https://movies.stevenhalla.com)
 
+The follow is the file structure that I used for this project:
+
+<img  src="/assets/images/tomrottenfilepath/tomrotten-pathfile-1.png"
+alt="1">
+
+<img  src="/assets/images/tomrottenfilepath/tomrotten-pathfile-2.png"
+alt="2">
+
+<img  src="/assets/images/tomrottenfilepath/tomrotten-pathfile-3.png"
+alt="3">
+
 I created a movie review app that started out in JavaScript but was then later converted into TypeScript.
 This is a full CRUD app where users can create, read, update, and delete movie reviews as well as manage their own profiles.
 Users will be able to create accounts and leave movie reviews. Users can also check out other user movie reviews.
