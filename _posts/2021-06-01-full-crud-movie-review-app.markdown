@@ -5,7 +5,9 @@ date: 2021-05-31 20:35:46 -0800
 categories: nodejs express mysql react typescript
 ---
 
-The site: [https://movies.stevenhalla.com](https://movies.stevenhalla.com)
+The source code can be found on [GitHub](https://github.com/steven-halla/movie_review_site)
+
+The site: [TomRotten](http://movies.stevenhalla.com/)
 
 The follow is the file structure that I used for this project:
 

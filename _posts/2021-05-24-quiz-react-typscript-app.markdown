@@ -8,6 +8,9 @@ categories: node express mysql
 The following quiz app uses an external API to fetch questions and answers for quiz like questions.
 There are catogorys and diffulculty levels that you can adjust. 
 
+Source code can be found here:
+[GitHub](https://github.com/steven-halla/quizapp)
+
 The website where we will get our API:
 
 # https://opentdb.com/
