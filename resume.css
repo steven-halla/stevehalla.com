@@ -54,6 +54,14 @@ a:visited {
     color: black;
 }
 
+.top-header .left-column .full-name .dot-com {
+    margin-left: 0px;
+
+    font-size: 20px;
+    color: #252525;
+}
+
+
 .top-header .left-column .job-title {
     color: black;
 }
