@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "E-Commerce store"
-date: 2021-05-31 20:35:46 -0800
+title: "E-Commerce store 'Hobby Max' : React + Type Script + Stripe API"
 categories: React Node.js
 ---
 
