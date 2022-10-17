@@ -16,3 +16,4 @@ bundle exec jekyll serve
 bundle exec jekyll build
 aws s3 sync --delete _site/ s3://www.stevenhalla.com
 ```
+

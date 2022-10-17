@@ -126,9 +126,17 @@ a:visited {
     font-weight: bold;
 }
 
+.experience .experience-activity .activity-title-and-date .activity-title-darkhorse {
+    font-weight: bold;
+}
+
 .experience .experience-activity .activity-title-and-date .activity-date {
     justify-content: flex-end;
 
+}
+
+.activity-title-darkhorse {
+    font-weight: bold;
 }
 
 .experience .experience-activity .technology-list {
