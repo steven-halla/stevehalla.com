@@ -4,7 +4,8 @@ thumbnail: "https://stevenhalla.com/assets/images/jekyllmainpage.png"
 ---
 
 This is an app being built in React,Typescript, Java, SpringBoot, full CRUD , MVC project.
-MySQL database.
+MySQL database. Material UI for styling. RESTful API. 
+
 
 GIT repo needs to be made public
 
