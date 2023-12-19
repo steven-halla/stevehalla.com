@@ -26,6 +26,14 @@ Creating a new job is fast and easy, and takes less than a minute. There are too
 filling out applications faster, such as copy/paste icons for Linkedin, Github, and your 
 portfolio web site.
 
+The app also tracks how often you are hunting for jobs, this way you can keep yourself accountable
+to be applying for the number of jos per week that you need to.
+
+
+
 Github Repo:
 [JobHunter Repository](https://github.com/steven-halla/JobHunter)
 
+<img src="/assets/images/JobHunter/CreateJobsImage.png" alt="1" style="width:1000px; height:auto;">
+<img src="/assets/images/JobHunter/Jobs.png" alt="1" style="width:1000px; height:auto;">
+<img src="/assets/images/JobHunter/interviewcreate.png" alt="1" style="width:1000px; height:auto;">
