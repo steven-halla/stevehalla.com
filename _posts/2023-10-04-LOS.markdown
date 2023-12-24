@@ -1,0 +1,15 @@
+---
+layout: post
+thumbnail: "https://stevenhalla.com/assets/images/jekyllmainpage.png"
+---
+
+LOS
+
+I created a PYGAME program that handles LOS. Here are the following things that are covered:
+
+Barriers-certain rectangles can be used to block LOS
+Player Rect- allows the players to move in 8 directions
+Enemey Rect - can change the color of player rect
+
+The point of this program is for a game of sight tag. So when the player is sighted it changes color
+and loses the match. 
